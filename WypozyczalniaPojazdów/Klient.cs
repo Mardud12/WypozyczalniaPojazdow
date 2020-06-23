@@ -11,5 +11,5 @@
             return ("{0} {1} {2}", Imie, Nazwisko, NumerTelefonu).ToString();
         }
     }
-    }
+    
 }
