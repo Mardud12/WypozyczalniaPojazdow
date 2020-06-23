@@ -43,6 +43,7 @@
     <Compile Include="enum\RodzajPaliwa.cs" />
     <Compile Include="enum\RodzajPojazdu.cs" />
     <Compile Include="Hulajnoga.cs" />
+    <Compile Include="Klient.cs" />
     <Compile Include="Pojazd.cs" />
     <Compile Include="Program.cs">
       <SubType>Form</SubType>

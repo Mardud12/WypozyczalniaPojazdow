@@ -15,7 +15,7 @@
 
         public override string WypiszInfo()
         {
-            return ("{0} {1} {2} {3} {4} {5}", Id, Marka, Model, RodzajHulajnogi, Dystans).ToString();
+            return ("{0} {1} {2} {3} {4}", Id, Marka, Model, RodzajHulajnogi, Dystans).ToString();
 
         }
     }
